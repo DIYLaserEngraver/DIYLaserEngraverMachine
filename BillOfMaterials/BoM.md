@@ -10,3 +10,10 @@ All other categories will be put in their seperate files, these files will be li
 - [Electrical](Electrical.md)
 
 ## Miscellaneous
+
+### Retailers
+
+- JayCar (Australian-Owned)
+
+### BoM
+
